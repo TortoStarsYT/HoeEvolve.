@@ -1,0 +1,8 @@
+name: EvolutiveHoe
+version: 1.0
+main: fr.tortostars.evolutivehoe.Main
+api-version: 1.21
+commands:
+  hoeprogress:
+    description: Ouvre le GUI de progression de la houe.
+    usage: /hoeprogress
